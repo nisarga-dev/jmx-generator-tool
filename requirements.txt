@@ -1,0 +1,12 @@
+streamlit
+groq
+Pillow
+requests
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+lxml
+requests
+PyYAML
+urllib3
