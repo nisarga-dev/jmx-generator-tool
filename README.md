@@ -1,2 +1,5 @@
-# jmx-generator-tool
-jmx generator tool for internal use(internship project)
+The AI-Powered JMX Test Case Generator is an intelligent automation tool developed to simplify and accelerate API testing. The system takes API documentation, sequence diagrams, or request/response specifications as input and uses Large Language Models (LLMs) to automatically generate comprehensive test cases and JMeter (JMX) test scripts.
+
+The application integrates document parsing, Retrieval-Augmented Generation (RAG), prompt engineering, and AI-based test case generation to produce structured and reusable testing artifacts. It also supports manual intervention at different stages of the workflow, allowing users to review and modify intermediate outputs before generating the final JMX file.
+
+The project is built using Python, Streamlit, LangChain, ChromaDB, Sentence Transformers, and Ollama, providing an interactive interface for generating functional, boundary, and negative test cases. By automating repetitive testing tasks, the solution reduces manual effort, improves consistency, and helps software testing teams accelerate API validation and performance testing.
